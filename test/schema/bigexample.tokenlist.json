@@ -860,6 +860,13 @@
       "decimals": 18
     },
     {
+      "address": "0xcea83bc11a51cf07eea1286eee099871b428e613",
+      "chainId": 43,
+      "name": "Bitcoin 3",
+      "symbol": "BTC3",
+      "decimals": 8
+    },
+    {
       "address": "0xAaF64BFCC32d0F15873a02163e7E500671a4ffcD",
       "chainId": 42,
       "name": "Maker",
